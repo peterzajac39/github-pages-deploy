@@ -1,0 +1,62 @@
+<recept>
+    <jedlo>Palacinka</jedlo>
+    <zoznamIngrediencii>
+        <ingrediencia>
+            <nazov>múka</nazov>
+            <objem>100g</objem>
+            <cena>0.65</cena>
+        </ingrediencia>
+        <ingrediencia>
+            <nazov>vajcia</nazov>
+            <objem>3ks</objem>
+            <cena>0.25</cena>
+        </ingrediencia>
+        <ingrediencia>
+            <nazov>šlahačka</nazov>
+            <objem>1ks</objem>
+            <cena>0.45</cena>
+        </ingrediencia>
+        <ingrediencia>
+            <nazov>cukor</nazov>
+            <objem>100g</objem>
+            <cena>0.05</cena>
+        </ingrediencia>
+        <ingrediencia>
+            <nazov>cukor</nazov>
+            <objem>50g</objem>
+            <cena>0.03</cena>
+        </ingrediencia>
+    </zoznamIngrediencii>
+    <zoznamSpotrebicov>
+        <spotrebic>
+            <nazov>ručny mixér</nazov>
+        </spotrebic>
+        <spotrebic>
+            <nazov>panvica</nazov>
+        </spotrebic>
+    </zoznamSpotrebicov>
+</recept>
+
+múka vajcia šlahačka cukor sol
+
+<prostriedky>
+    <prostriedok>
+        <nazov>Hubka</nazov>
+        <cena>1</cena>
+    </prostriedok>
+    <prostriedok>
+        <nazov>Vysavac</nazov>
+        <cena>50</cena>
+    </prostriedok>
+</prostriedky>
+
+<pristroje>
+    <pristroj>
+        <nazov>Kosacka</nazov>
+        <cena>100</cena>
+    </pristroj>
+    <pristroj>
+        <nazov>Traktor</nazov>
+        <cena>5000</cena>
+    </pristroj>
+</pristroje>
